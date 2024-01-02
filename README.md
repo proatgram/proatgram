@@ -1,9 +1,9 @@
-<h1 align="center">Hello! I'm Timothy Hutchins</h1>
-<h3 align="center">I am a High School student in the United States with a passion in Software Development</h3>
+<h1 align="center">Hello! I'm TheTimBrick</h1>
+<h3 align="center">I am a student in the United States with a passion in Software Development</h3>
 
 - 🔭 I’m currently working on: [GroupMe-API](https://github.com/proatgram/GroupMe-API)
 
-- 🌱 I’m currently learning **Java and Rust**
+- 🌱 I’m currently learning **Java**
 
 - 📝 I'm the lead of the programming team for the [Sea Monsters 7446 Robotics Team](https://github.com/Sea-Monsters-7446)
 
