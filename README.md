@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm TheTimBrick</h1>
 <h3 align="center">I am a student in the United States with a passion in Software Development</h3>
 
-- 🔭 I’m currently working on: [GroupMe-API](https://github.com/proatgram/GroupMe-API)
+- 🔭 I’m currently working on: *AAAAAA*
 
 - 🌱 I’m currently learning **Java**
 
