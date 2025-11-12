@@ -1,9 +1,9 @@
 <h1 align="center">Hello! I'm TheTimBrick</h1>
 <h3 align="center">I am a student in the United States with a passion in Software Development</h3>
 
-- 🔭 I’m currently working on: *AAAAAA*
+- 🔭 I’m currently working on: Moco, a mobile oriented Wayland compositor written in C++
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **University**
 
 - 📝 I *was* the lead of the programming team for the [Sea Monsters 7446 Robotics Team](https://github.com/Sea-Monsters-7446)
 
